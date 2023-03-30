@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+## Finance Manager Frontend
+The Finance Manager Frontend is the client-side component of the Finance Manager web application. It is responsible for providing users with an interface to interact with their financial data and perform various financial operations.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies Used
+The frontend is built using the following technologies:
 
-## Available Scripts
+React: a popular JavaScript library used to build user interfaces
+Redux: a state management library for React used to manage the application's state
+React Router: a routing library for React used to handle client-side routing
+Axios: a promise-based HTTP client used to make API requests
+Material-UI: a popular React UI framework used to create a consistent look and feel across the application
+## Installation
+To install the frontend, follow these steps:
 
-In the project directory, you can run:
+Clone the repository to your local machine
 
-### `npm start`
+Install Node.js on your machine if you haven't already
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Install the necessary Node.js packages by running the following command in the terminal:
+npm install
+Start the server by running the following command in the terminal:
+npm start
+This will start the frontend on http://localhost:3000 and automatically open a new browser window.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
+To use the frontend, follow these steps:
 
-### `npm test`
+Open the frontend in your web browser by visiting http://localhost:3000
+Sign up for a new account or log in to an existing account
+Navigate through the different pages to view your financial data and perform various financial operations.
+## Development
+To develop on the frontend, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone the repository to your local machine
 
-### `npm run build`
+Install Node.js on your machine if you haven't already
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Install the necessary Node.js packages by running the following command in the terminal:
+npm install
+Start the development server by running the following command in the terminal:
+npm run start:dev
+This will start the server in development mode, which will automatically reload the page whenever you make changes to the code.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
+If you would like to contribute to the frontend, please follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fork the repository
+Create a new branch for your changes
+Make your changes and commit them to your branch
+Push your branch to your forked repository
+Submit a pull request to the main repository
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author 
+Brian Maina

@@ -23,10 +23,7 @@ const transactionApi = {
     return response.data;
   }
 
-  deleteTransaction: async (id) => {
-    const response = await axios.delete(`${API_URL}/${id}`);
-    return response.data;
-  }
+  
 };
 
 export default transactionApi;

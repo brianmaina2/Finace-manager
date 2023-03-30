@@ -47,3 +47,6 @@ Start the development server by running the following command in the terminal:
   -Make your changes and commit them to your branch
   -Push your branch to your forked repository
   -Submit a pull request to the main repository
+  
+  ## Author 
+  Brian Maina

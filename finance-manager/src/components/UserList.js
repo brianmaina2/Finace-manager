@@ -34,5 +34,11 @@ function UserList() {
     </div>
   );
 }
+))}
+</tbody>
+</table>
+</div>
+);
+}
 
 export default UserList;

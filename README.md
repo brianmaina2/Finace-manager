@@ -1,4 +1,4 @@
-# Finace-manager# Finance Manager Backend
+# Finance Manager Backend
  -The Finance Manager Backend is the server-side component of the Finance Manager web application. It is responsible for handling all incoming requests from the frontend and processing the necessary logic to perform various financial operations.
 
  ## Technologies Used
